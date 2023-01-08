@@ -1,0 +1,21 @@
+Personnel number:4477
+Name:Eugene
+Department number:3355
+Occupation:Fas
+Address:Holovna
+Salary:15000
+Children:2
+Personnel number:7799
+Name:Oksana
+Department number:3355
+Occupation:Fasov
+Address:olovna
+Salary:18000
+Children:2
+Personnel number:2211
+Name:Tatyana
+Department number:3355
+Occupation:Fas
+Address:Holovna
+Salary:19000
+Children:2
